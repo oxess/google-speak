@@ -47,6 +47,14 @@ Usage of ./google-speak:
 
 ## Installation
 
+Simple pre-compiled version:
+
+1. Download binary from releases (https://github.com/oxess/google-speak/releases)
+2. Upload to server filesystem `scp google-speak server1:/usr/local/bin/google-speak`  
+3. Make executable `chmod +x /usr/local/bin/google-speak`
+
+Or:
+
 1. Download repository `git clone https://github.com/oxess/google-speak`
 2. Go to directory `cd google-speak`
 3. Build dependencies `go mod download`
