@@ -73,7 +73,7 @@ func main() {
 	if *languageCodePl {
 		languageCode = "pl-PL"
 	} else {
-		languageCode = "pl-US"
+		languageCode = "en-US"
 	}
 
 	textToFile(client, ctx, languageCode, *outputFilePath, flag.Arg(0))

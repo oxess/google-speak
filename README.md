@@ -1,7 +1,7 @@
 # Google text-to-speak Simple Binary file
 
-This repository is a simple implementation of google text-to-speak service. \
-Required enable API in GCP (https://console.cloud.google.com/apis/api/texttospeech.googleapis.com)
+This repository is a simple implementation of google text-to-speech service. \
+Require enabled API in GCP (https://console.cloud.google.com/apis/api/texttospeech.googleapis.com)
 
 
 ## Usage 
